@@ -1,0 +1,32 @@
+	body {font-family: Tahoma, Arial;
+	font-size: 18pt;
+	border: 0, 0, 0, 0; margin: 0; padding: 0;
+}
+ #resume {
+	font-size: 1.5em;
+	font-weight: bold;
+	text-align: center;
+}
+
+#contactinfo {
+	font-size 1.3em
+}
+
+.sectionholder {
+	font-size: 1.4em;
+	font-weight: bold;
+}
+
+.indented {
+	margin-left: 30px;
+}
+
+.table {
+	border: 1px solid silver; 
+	width: 80%;}
+thead {
+	color: white;
+	background: grey;
+	font-size: 0.8em;
+	font-style: italic;
+}
